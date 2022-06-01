@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x03c9aE09A3721e26Ff1C4C110b6e3AD56b632ED6",
+
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "mumbai testnet",
+    "SYMBOL": "matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "MoonButts",
+  "SYMBOL": "MoonButts",
+  "MAX_SUPPLY": 2669,
+  "WEI_COST": 27000000000000000,
+  "DISPLAY_COST": 0.027 ,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/moonbutts",
+  "SHOW_BACKGROUND": true
+}
